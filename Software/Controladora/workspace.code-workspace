@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Painel_ATiny",
+			"path": "..\\Painel_ATiny"
+		},
+		{
+			"name": "Controladora",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
