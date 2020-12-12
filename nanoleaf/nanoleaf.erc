@@ -1,0 +1,7 @@
+Relatório de ERC (11/12/2020 03:59:07, Codificação UTF8 )
+
+***** Folha /
+ErrType(3): Pino conectado a outros pinos, mas não conduzido por nenhum pino
+    @(134,62 mm, 19,05 mm): Pino 1 (Alimentação) do componente D11 não está conduzindo (Rede 13)
+
+** Mensagens ERC: 1 Erros 0 Advertências 1

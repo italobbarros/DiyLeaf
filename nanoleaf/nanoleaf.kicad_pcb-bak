@@ -278,11 +278,6 @@
     (pad 9 thru_hole oval (at 2.725 0 90) (size 2.4 1.2) (drill 0.7) (layers *.Cu *.Mask))
     (pad 10 smd oval (at -2.425 -3.03) (size 1.05 2.1) (layers B.Cu B.Mask))
     (pad 11 smd oval (at 2.425 -3.03) (size 1.05 2.1) (layers B.Cu B.Mask))
-    (model D:/Google_Drive/faculdade/2020.1/PBLE1/Libs/microusb/microusb.step
-      (offset (xyz 0 1.3 -0.2))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
-    )
   )
 
   (module LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5AA4B285) (tstamp 5FD3BA62)
